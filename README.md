@@ -21,3 +21,7 @@ Drone
 
 ### ardupilot
 - https://ardupilot.org/
+- https://ardupilot.org/copter/docs/what-is-a-multicopter-and-how-does-it-work.html#what-is-a-multicopter-and-how-does-it-work
+
+### jupyter notebook
+- <a href="https://colab.research.google.com/drive/19Dn0zgFiwbIP_kzT5j52UTnOwJtiW90f?usp=sharing">drone.ipynb</a>
