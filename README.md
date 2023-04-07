@@ -11,6 +11,7 @@ Drone
 - http://classic.gazebosim.org/tutorials?tut=ros2_installing&cat=connect_ros
 - https://www.youtube.com/watch?v=DW7l9LHdK5c&t=170s
 - https://github.com/ArduPilot/ardupilot_gazebo
+- https://staging.gazebosim.org/docs/garden/getstarted
 
 ### ROS
 - https://www.theconstructsim.com/difference-run-code-ros-python-cpp/
@@ -25,3 +26,5 @@ Drone
 
 ### jupyter notebook
 - <a href="https://colab.research.google.com/drive/19Dn0zgFiwbIP_kzT5j52UTnOwJtiW90f?usp=sharing">drone.ipynb</a>
+
+
